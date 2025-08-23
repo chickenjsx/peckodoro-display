@@ -1,6 +1,7 @@
 # 🐔 Peckodoro
 
 **The perfect study hub.** Peckodoro is a Pomodoro timer with integrated **Spotify controls** and **ChatGPT support**, designed to help you focus smarter, not harder.
+**This repository is for display purposes only. It helps me preserve the integrity and ownership of the code’s intellectual property.
 
 ---
 
@@ -85,7 +86,4 @@ npm run dev
  Cross-platform notifications
 
  Study stats and analytics (future)
-
-📄 License
-MIT License. See LICENSE file for details.
 
