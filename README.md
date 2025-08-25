@@ -1,8 +1,8 @@
 # 🐔 Peckodoro
 
-**The perfect study hub.
+**The perfect study hub. Peckodoro is a Pomodoro timer with integrated **Spotify controls** and **ChatGPT support**, designed to help you focus smarter, not harder.
 
-** Peckodoro is a Pomodoro timer with integrated **Spotify controls** and **ChatGPT support**, designed to help you focus smarter, not harder.
+
 **This repository is for display purposes only. It helps me preserve the integrity and ownership of the code’s intellectual property.**
 
 ---
