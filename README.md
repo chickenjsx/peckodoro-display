@@ -1,7 +1,9 @@
 # 🐔 Peckodoro
 
-**The perfect study hub.** Peckodoro is a Pomodoro timer with integrated **Spotify controls** and **ChatGPT support**, designed to help you focus smarter, not harder.
-**This repository is for display purposes only. It helps me preserve the integrity and ownership of the code’s intellectual property.
+**The perfect study hub.
+
+** Peckodoro is a Pomodoro timer with integrated **Spotify controls** and **ChatGPT support**, designed to help you focus smarter, not harder.
+**This repository is for display purposes only. It helps me preserve the integrity and ownership of the code’s intellectual property.**
 
 ---
 
@@ -49,41 +51,4 @@ Peckodoro blends time management, ambient motivation, and AI-assisted productivi
 - **Styling**: Tailwind CSS
 - **AI**: OpenAI GPT-4 API
 - **Music**: Spotify Web API
-- **Auth**: NextAuth.js
-
----
-
-## 🛠️ Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/chickenjsx/peckodoro.git
-cd peckodoro
-```
-### 2. Install Dependencies
-```bash
-NEXT_PUBLIC_SPOTIFY_CLIENT_ID=your_spotify_client_id
-NEXT_PUBLIC_SPOTIFY_REDIRECT_URI=http://localhost:3000/callback
-NEXT_PUBLIC_OPENAI_API_KEY=your_openai_api_key
-```
-###4. Run the App
-```bash
-npm run dev
-```
-✅ To-Do / Roadmap
-
-✅Basic Pomodoro Timer
-
- User Authentication
- 
- Save user preferences (dark mode, timer lengths)
-
- Spotify Integration
-
- ChatGPT Access
-
- Cross-platform notifications
-
- Study stats and analytics (future)
-
+- **Auth**: BetterAuth
